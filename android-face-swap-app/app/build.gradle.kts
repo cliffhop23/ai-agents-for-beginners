@@ -6,6 +6,7 @@ plugins {
 android {
     namespace = "com.example.faceswap"
     compileSdk = 35
+    buildToolsVersion = "35.0.1"
 
     defaultConfig {
         applicationId = "com.example.faceswap"
